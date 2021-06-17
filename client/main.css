@@ -1,0 +1,28 @@
+body {
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.notepad-area {
+    flex: 70%;
+}
+
+.user-area {
+    flex: 30%;
+
+}
+
+.user-input {
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.user-list {
+    margin-left: 20px;
+}
